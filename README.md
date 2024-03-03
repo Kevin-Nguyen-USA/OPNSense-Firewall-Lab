@@ -21,7 +21,7 @@ This project consists of implementing a network for a fictional company, leverag
 - <b> Kali Linux </b>
 - <b> VMware VirtualBox </b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 
 
