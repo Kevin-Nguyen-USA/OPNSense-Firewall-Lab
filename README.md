@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project consists of implementing a network for a fictional company, leveraging OPNSense Firewall, Windows and Ubuntu Server, and Active Directory. Elasticsearch stack will be utilized as our threat hunting and monitoring solution. All of this will be virtualized using VMware VirtualBox.
+This project consists of implementing a network for a fictional company, leveraging OPNSense Firewall, Windows Server, Ubuntu Server, and Active Directory. Elasticsearch stack will be utilized as our threat hunting and monitoring solution. All of this will be virtualized using VMware VirtualBox.
 <br />
 
 
