@@ -10,7 +10,7 @@ This project consists of implementing a secure network that features an Intrusti
 <h2>Programs and Utilities Used</h2>
 
 - <b> [OPNSense Firewall](https://opnsense.org/download/) </b>
-- <b> Active Directory </b>
+- <b> [Windows Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) </b>
 - <b> [Elastic Search](https://www.elastic.co/elastic-stack) </b>
 
 
