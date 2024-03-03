@@ -24,9 +24,11 @@ This project consists of implementing a secure network that features an Intrusti
 <h2>Virtual Box Setup:</h2>
 
 <p align="center">
-<b> 1. </b> Inside of VM VirtualBox, install OPNSense, and Kali Linux ISOs. <b>Be sure to select Free BSD (64-bit) when installing the OPNSense ISO:</b> <br/>
+<b> 1. </b> Inside of VM VirtualBox, install OPNSense, and Kali Linux ISOs.  <br/>
  
 <img src="https://i.imgur.com/V1KM0oj.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
+<br/>
+<b>Be sure to select Free BSD (64-bit) when installing the OPNSense ISO:</b>
 <img src="https://i.imgur.com/W1lUjc5.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
 <br/> 
 I assigned 2 cores, 2048 MB of RAM, and 16 GB of disk space to each Virtual Machine.
