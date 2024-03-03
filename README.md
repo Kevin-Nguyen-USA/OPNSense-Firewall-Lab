@@ -1,4 +1,4 @@
-<h1>OPNSense - Firewall Lab Project</h1>
+<h1>OPNSense Firewall Lab Project</h1>
 
 
 
