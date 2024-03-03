@@ -36,8 +36,8 @@ I assigned 2 cores, 2048 MB of RAM, and 16 GB of disk space to each Virtual Mach
 <br />
 <br />
 <b> 2. </b> Set Network settings for both of the Kali Linux and OPNSense VMs to have 2 adapters: NAT and Internal Network. We are going to be running this in a local networking configuration that allows our Virtual Machines to communicate with eachother. <br/> 
-<img src="https://imgur.com/jan3Usu.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
-<img src="https://i.imgur.com/RgFSFlW.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
+<img src="https://imgur.com/jan3Usu.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
+<img src="https://i.imgur.com/RgFSFlW.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
 <br />
 <br />
 </p>
@@ -46,11 +46,11 @@ I assigned 2 cores, 2048 MB of RAM, and 16 GB of disk space to each Virtual Mach
 <h2>Setting up OPNSense</h2>
 <p align="center">
 <b> 1. </b> Start the OPNSense VM. Mount the OPNSense Firewall ISO and follow through with the Installation Wizard. Install UFS. <br/>
-<img src="https://imgur.com/gwsCYln.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
+<img src="https://imgur.com/gwsCYln.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
 <br />
 <br />
 <b> 2. </b> Rewrite contents of ada0 (our VBOX HARDDISK) and confirm. This will format the disk and its contents to have the OPNSense Firewall Image installed on the VM.<br/>
- <img src="https://i.imgur.com/oh6tPC8.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
+ <img src="https://i.imgur.com/oh6tPC8.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
 </p>
 
 
