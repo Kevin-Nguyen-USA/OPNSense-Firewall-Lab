@@ -33,7 +33,7 @@ I assigned 2 cores, 2048 MB of RAM, and 16 GB of disk space to each Virtual Mach
 <br />
 <br />
 <br />
-<b> 2. </b> Set Network settings for each VM to have 2 adapters: NAT and Internal Network, since we are going to be running this in a local networking configuration. <br/> 
+<b> 2. </b> Set Network settings for both of the Kali Linux and OPNSense VMs to have 2 adapters: NAT and Internal Network. We are going to be running this in a local networking configuration that allows our Virtual Machines to communicate with eachother. <br/> 
 <img src="https://imgur.com/jan3Usu.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
 <img src="https://i.imgur.com/RgFSFlW.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
 <br />
