@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project consists of implementing a secure network that features an Intrustion Detection and Prevention System for a fictional company, leveraging OPNSense Firewall, Windows Server, Ubuntu Server, and Active Directory. Elasticsearch stack will be utilized as our threat hunting and monitoring solution. All of this will be virtualized using VMware VirtualBox.
+This project consists of implementing a secure network that features an Intrustion Detection and Prevention System for a fictional company. In this project, we are going to be leveraging OPNSense Firewall, Windows Server, Ubuntu Server, and Active Directory. Elasticsearch stack will be utilized as our threat hunting and monitoring solution. All of this will be virtualized using VMware VirtualBox.
 <br />
 
 
