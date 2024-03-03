@@ -10,8 +10,6 @@ This project consists of implementing a network for a fictional company, leverag
 <h2>Programs and Utilities Used</h2>
 
 - <b> OPNSense Firewall </b> 
-- <b> Windows Server </b>
-- <b> Ubuntu Server </b>
 - <b> Active Directory </b>
 - <b> Elastic Search </b>
 
@@ -19,10 +17,31 @@ This project consists of implementing a network for a fictional company, leverag
 <h2>Environments Used </h2>
 
 - <b> Kali Linux </b>
-- <b> VMware VirtualBox </b>
+- <b> Oracle VM VirtualBox </b>
+- <b> Windows Server </b>
+- <b> Ubuntu Server </b>
 
-<h2>Project walk-through:</h2>
+<h2>Virtual Box Setup:</h2>
 
+<p align="center">
+Inside of VM VirtualBox, install OPNSense, and Kali Linux ISOs: <br/>
+<img src="https://i.imgur.com/V1KM0oj.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
+<br />
+<br />
+Set Network settings for each VM to have 2 adapters: NAT and Internal Network, since we are going to be running this in a local networking configuration. <br/>
+<img src="https://imgur.com/jan3Usu.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
+<img src="https://imgur.com/RgFSFlW.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
+<br />
+<br />
+</p>
+<h2>Setting up OPNSense</h2>
+<p align="center">
+Start the OPNSense VM. Mount the OPNSense Firewall ISO and follow through with the Installation Wizard. Install UFS. <br/>
+<img src="https://imgur.com/gwsCYln.png" height="50%" width="50%" alt="OPNSense Firewall Steps"/>
+<br />
+<br />
+
+</p>
 
 
 <!--
