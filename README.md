@@ -21,7 +21,7 @@ This project consists of implementing a secure network that features an Intrusti
 - <b> Windows Server </b>
 - <b> Ubuntu Server </b>
 
-<h2>Virtual Box Setup:</h2>
+<h2>Virtual Box Setup</h2>
 
 <p align="center">
 <b> 1. </b> Inside of VM VirtualBox, install OPNSense, and Kali Linux ISOs.  <br/>
