@@ -9,15 +9,15 @@ This project consists of implementing a secure network that features an Intrusti
 
 <h2>Programs and Utilities Used</h2>
 
-- <b> OPNSense Firewall </b> 
+- <b> [OPNSense Firewall](https://opnsense.org/download/) </b>
 - <b> Active Directory </b>
-- <b> Elastic Search </b>
+- <b> [Elastic Search](https://www.elastic.co/elastic-stack) </b>
 
 
 <h2>Environments Used </h2>
 
-- <b> Kali Linux </b>
-- <b> Oracle VM VirtualBox </b>
+- <b> [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines) </b>
+- <b> [Oracle VM VirtualBox](https://www.virtualbox.org/) </b>
 - <b> Windows Server </b>
 - <b> Ubuntu Server </b>
 
