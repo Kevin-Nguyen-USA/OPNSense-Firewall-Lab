@@ -53,7 +53,7 @@ I assigned 2 cores, 2048 MB of RAM, and 16 GB of disk space to each Virtual Mach
  <img src="https://i.imgur.com/oh6tPC8.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/>
  <br />
  <br />
- <b> 3. </b> Assign interfaces for LAN and WAN. em1 for LAN and em2 for WAN. I left each interface IP as the default (192.168.1.1/24 and 10.0.2.15/24)<br/>
+ <b> 3. </b> Assign interfaces for LAN and WAN. em0 for LAN and em1 for WAN. I left each interface IP as the default (192.168.1.1/24 and 10.0.2.15/24)<br/>
  <img src="https://i.imgur.com/MAR6WGB.png" height="80%" width="80%" alt="OPNSense Firewall Steps"/><br />
  
 </p>
